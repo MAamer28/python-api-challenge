@@ -25,4 +25,5 @@ Your main tasks will be to use the Geoapify API and the geoViews Python library 
 
 ## Resources/Bibliography
 Morales, Veronica. (2023). https://github.com/veronica-morales/WeatherPy/tree/master
+
 Stubbs, Phil. (2023). https://github.com/philipstubbs13/python-api-challenge/blob/master/VacationPy/VacationPy.ipynb
